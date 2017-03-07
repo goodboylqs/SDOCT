@@ -1,0 +1,5 @@
+﻿  Assign_Weight.cpp
+d:\project\sdoct_segmentation_code\sdoct_segmentation_2\assign_weight.cpp(28): warning C4305: “=”: 从“double”到“float”截断
+d:\project\sdoct_segmentation_code\sdoct_segmentation_2\assign_weight.cpp(30): warning C4101: “max”: 未引用的局部变量
+  SDOCT_Segmentation_2.vcxproj -> D:\PROJECT\SDOCT_Segmentation_Pack\Debug\SDOCT_Segmentation_2.exe
+  SDOCT_Segmentation_2.vcxproj -> D:\PROJECT\SDOCT_Segmentation_Pack\Debug\SDOCT_Segmentation_2.pdb (Full PDB)
